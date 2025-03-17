@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PawFect_Care.props" />
+</Project>

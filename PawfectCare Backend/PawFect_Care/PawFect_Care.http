@@ -1,0 +1,6 @@
+@PawFect_Care_HostAddress = http://localhost:5152
+
+GET {{PawFect_Care_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
